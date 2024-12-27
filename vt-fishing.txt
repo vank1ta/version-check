@@ -1,1 +1,1 @@
-{"version":"1.0.0", "notes":""}
+{"version":"1.3.0", "notes":"Added feature to change minigame speed and repeats as per customer request. Everything is via config.lua",}
